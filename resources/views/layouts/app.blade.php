@@ -1,6 +1,6 @@
-// resources/views/layouts/app.blade.php
 
-< !DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Laravel 快速入門 - 基本</title>

@@ -1,5 +1,4 @@
 
-// resources/views/tasks.blade.php
 
 @extends('layouts.app')
 
@@ -37,7 +36,7 @@
 
     <!-- 目前任務 -->
     @if (count($tasks) > 0)
-        …
+
         <tbody>
         @foreach ($tasks as $task)
             <tr>
@@ -56,6 +55,6 @@
             </tr>
         @endforeach
         </tbody>
-        ….
+
     @endif
 @endsection
